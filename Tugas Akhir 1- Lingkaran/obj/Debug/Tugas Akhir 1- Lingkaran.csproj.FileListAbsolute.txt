@@ -1,0 +1,6 @@
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 1- Lingkaran\Tugas Akhir 1- Lingkaran\bin\Debug\Tugas Akhir 1- Lingkaran.exe.config
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 1- Lingkaran\Tugas Akhir 1- Lingkaran\bin\Debug\Tugas Akhir 1- Lingkaran.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 1- Lingkaran\Tugas Akhir 1- Lingkaran\bin\Debug\Tugas Akhir 1- Lingkaran.pdb
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 1- Lingkaran\Tugas Akhir 1- Lingkaran\obj\Debug\Tugas Akhir 1- Lingkaran.csprojResolveAssemblyReference.cache
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 1- Lingkaran\Tugas Akhir 1- Lingkaran\obj\Debug\Tugas Akhir 1- Lingkaran.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 1- Lingkaran\Tugas Akhir 1- Lingkaran\obj\Debug\Tugas Akhir 1- Lingkaran.pdb
